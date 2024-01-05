@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PokeBowl</string>
+    <string name="search_for_pokemons">Search Pokemon</string>
+    <string name="try_again">Try Again</string>
+    <string name="retry">There was an error\ntap to retry</string>
+    <string name="statistics">Base Statistics</string>
+</resources>
